@@ -1,2 +1,2 @@
 # Fask-app
-My project
+My Simple Project
